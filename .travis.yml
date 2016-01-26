@@ -1,5 +1,4 @@
 compiler:
   - gcc
-  - clang
 
 script: "./t"
