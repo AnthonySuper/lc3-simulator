@@ -1,5 +1,5 @@
 CC := gcc
-CFLAGS := -g -Wall -std=gnu11
+CFLAGS := -g -Wall -std=gnu99
 SRCDIR := src
 LFLAGS := -Iinclude/
 DEPS := $(wildcard $(SRCDIR)/*.c)
